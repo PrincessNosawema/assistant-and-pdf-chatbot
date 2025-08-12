@@ -1,1 +1,1 @@
-# assistant---pdf-chatbot
+# assistant-and-pdf-chatbot
